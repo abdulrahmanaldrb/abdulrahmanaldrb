@@ -268,3 +268,154 @@ A project exploring digital assistance and access to university-related informat
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0D1117&height=120&section=footer)
+
+
+
+<!-- Header Wave Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Abdulrahman%20Sultan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Cybersecurity%20Specialist%20|%20AI%20Builder&descAlignY=60&descSize=18" width="100%" />
+</div>
+
+<!-- Dynamic Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Hi+there!+I'm+Abdulrahman+(Aboud)+%F0%9F%91%8B;Flutter+%26+Laravel+Full-Stack+Engineer+%F0%9F%9A%80;Cybersecurity+%26+Networks+Graduate+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=2c5364" alt="Followers" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 نبذة عني | About Me
+
+```yaml
+name: Abdulrahman Sultan
+nickname: Aboud
+location: Ibb, Yemen 🇾🇪
+education: B.Sc. in Information Technology (Cybersecurity & Networks) — Al-Qalam University (Class of 2026)
+role: Full-Stack Application Developer & Software Engineer
+architecture_focus: Clean Architecture, GetX, RESTful APIs, & Secure Systems
+
+ * 🔭 أعمل حالياً على: بناء تطبيقات الهواتف الذكية المتكاملة والمنصات السحابية عالية الأداء.
+ * 🎓 الخلفية الأكاديمية: خريج تقنية المعلومات تخصص الأمن السيبراني والشبكات من جامعة القلم للعلوم الإنسانية والتطبيقية (دفعة 2026).
+ * 🛡️ الأمن السيبراني: شغوف باختبار الاختراق (Penetration Testing)، وتحديات التقاط العلم (CTF)، وتأمين البنى التحتية والبرمجيات.
+ * 🤖 الذكاء الاصطناعي والأنظمة المدمجة: تطوير نماذج معالجة اللغات الطبيعية (LLM Pipelines) ومشاريع إنترنت الأشياء والمحاكاة الهندسية.
+ * ⚡ أسلوب العمل: التفكير من المبادئ الأولى (First-Principles)، كتابة كود نظيف قابل للتوسع، وإيجاد حلول إبداعية للتحديات التقنية.
+🛠️ المهارات والتقنيات | Tech Stack & Tools
+📱 تطوير الواجهات وتطبيقات الجوال (Frontend & Mobile)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,tailwind,vite&theme=dark" />
+</p>
+ * الأنماط المعمارية: Clean Architecture • GetX • Provider • Zustand
+⚙️ تطوير الخوادم وقواعد البيانات (Backend & Databases)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,firebase,python&theme=dark" />
+</p>
+ * الخدمات والربط: RESTful APIs • Authentication & Security • Database Schema Design
+🤖 الذكاء الاصطناعي والأنظمة المدمجة (AI, ML & Embedded Systems)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,arduino,linux,bash&theme=dark" />
+</p>
+ * أدوات الذكاء الاصطناعي: LangChain • Hugging Face • Unsloth • ChromaDB • Gradio • Gemini API
+ * الأمن والمحاكاة: Penetration Testing • CTF • Proteus 8 Simulation • Microcontrollers
+🧰 بيئة التطوير والأدوات (DevOps & Workflow)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows&theme=dark" />
+</p>
+🚀 أبرز المشاريع | Featured Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">💼 مصدر رزقي (Masdar Rizqi)</h3>
+<p align="center">
+<b>منصة توظيف وأعمال حرة متكاملة (مشروع التخرج 2026)</b>
+
+
+تطبيق يربط أصحاب العمل بالحرفيين والمهنيين المهرة، مبني وفق معمارية نظيفة لتوفير تجربة مستخدم سريعة وآمنة.
+</p>
+<p align="center">
+<code>Flutter</code> <code>Dart</code> <code>GetX</code> <code>Laravel</code> <code>MySQL</code>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🌐 8ai Web Page Builder</h3>
+<p align="center">
+<b>منشئ صفحات ويب ذكي متعدد الوكلاء (Multi-Agent)</b>
+
+
+نموذج أولي لتوليد وتصميم تطبيقات وصفحات الويب تلقائياً باستخدام الذكاء الاصطناعي مع معاينة فورية.
+</p>
+<p align="center">
+<code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code> <code>Gemini API</code> <code>Firebase</code>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🧠 Closed-Domain Document QA & Sentiment AI</h3>
+<p align="center">
+<b>نظام ذكاء اصطناعي لتحليل المشاعر والإجابة على الوثائق</b>
+
+
+خط معالجة بيانات متكامل للاستعلام الدقيق من المستندات المغلقة وتحليل النصوص باستخدام نماذج لغوية مدربة.
+</p>
+<p align="center">
+<code>Python</code> <code>PyTorch</code> <code>LangChain</code> <code>Unsloth</code> <code>ChromaDB</code> <code>Gradio</code>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🔌 Predictive Maintenance Hardware System</h3>
+<p align="center">
+<b>نظام الصيانة التنبؤية للمعدات (محاكاة هندسية)</b>
+
+
+نموذج إلكتروني لمراقبة الحرارة والاهتزازات والتنبؤ بالأعطال قبل حدوثها عبر متحكمات دقيقة وشاشات عرض.
+</p>
+<p align="center">
+<code>Arduino Uno</code> <code>C++</code> <code>Proteus 8</code> <code>Sensors</code>
+</p>
+</td>
+</tr>
+</table>
+📊 إحصائيات GitHub | GitHub Analytics
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+🐍 مساهماتي | Contribution Snake
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+🤝 تواصل معي | Connect With Me
+<div align="center">
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://t.me/YOUR_TELEGRAM">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+</div>
+<!-- Footer Wave Animation -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</div>
+
