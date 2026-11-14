@@ -290,11 +290,6 @@ A project exploring digital assistance and access to university-related informat
   </a>
 </p>
 
----
-
-### 🧑‍💻 نبذة عني | About Me
-
-```yaml
 name: Abdulrahman Sultan
 nickname: Aboud
 location: Ibb, Yemen 🇾🇪
