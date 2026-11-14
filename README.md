@@ -1,18 +1,20 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:172554,100:4F46E5&text=ABDULRAHMAN%20ALDARB&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20MOBILE%20%26%20WEB%20%7C%20AI&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:080B16,45:172554,100:4F46E5&amp;text=ABDULRAHMAN%20ALDARB&amp;fontSize=43&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=SOFTWARE%20DEVELOPER%20%7C%20MOBILE%20%26%20WEB%20%26%20AI&amp;descSize=15&amp;descAlignY=58&amp;animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+IT+Graduate;Mobile+%26+Web+Application+Development;Flutter+%7C+Firebase+%7C+REST+APIs;Real-Time+Communication+%26+WebRTC;AI-Assisted+Development+%26+Prompt+Engineering;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=900&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Software+Developer+%7C+IT+Graduate;Mobile+%26+Web+Application+Development;Flutter+%7C+Firebase+%7C+REST+APIs;Real-Time+Communication+%26+WebRTC;AI-Assisted+Development+%26+Prompt+Engineering;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdulrahmanaldrb&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=abdulrahmanaldrb&amp;style=for-the-badge&amp;color=2563EB&amp;label=PROFILE+VIEWS" />
+
 <a href="https://github.com/abdulrahmanaldrb?tab=followers">
-<img src="https://img.shields.io/github/followers/abdulrahmanaldrb?style=for-the-badge&color=1D4ED8&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/abdulrahmanaldrb?style=for-the-badge&amp;color=1D4ED8&amp;logo=github&amp;label=FOLLOWERS" />
 </a>
+
 <a href="https://github.com/abdulrahmanaldrb?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0D9488?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Repositories-Explore-0D9488?style=for-the-badge&amp;logo=github" />
 </a>
 
 </div>
@@ -27,6 +29,7 @@ username: abdulrahmanaldrb
 role: Software Developer
 education: Bachelor's Degree in Information Technology
 university: Al-Qalam University
+graduation_period: 2022-2026
 location: Saudi Arabia
 
 areas_of_interest:
@@ -67,25 +70,25 @@ I enjoy taking ideas from concept to implementation, experimenting with technolo
 
 ### 📱 Mobile Application Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
 </p>
 
 - Cross-platform application development
 - Responsive UI and custom widgets
-- State management using setState and ValueNotifier
-- Real-time data handling with StreamBuilder
+- State management
 - Firebase integration
 - Android platform integration
+- Real-time data handling
 
 ### 🌐 Backend & API Development
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 - PHP
-- Laravel (Basic)
+- Laravel project experience
 - RESTful API integration
 - JSON data handling
 - Client-server communication
@@ -93,7 +96,7 @@ I enjoy taking ideas from concept to implementation, experimenting with technolo
 
 ### 🗄️ Databases & Cloud Services
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
@@ -106,7 +109,7 @@ I enjoy taking ideas from concept to implementation, experimenting with technolo
 
 ### 💻 Programming Languages & Web Technologies
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=dart,php,js,cs,html,css" />
 </p>
 
@@ -120,9 +123,9 @@ I enjoy taking ideas from concept to implementation, experimenting with technolo
 ### 📡 Real-Time Communication
 
 <p>
-<img src="https://img.shields.io/badge/WebRTC-Real--Time%20Communication-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-Real--Time%20Communication-333333?style=for-the-badge&amp;logo=webrtc&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/STUN%20%2F%20TURN-Network%20Traversal-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FCM-Push%20Notifications-FF6F00?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/FCM-Push%20Notifications-FF6F00?style=for-the-badge&amp;logo=firebase" />
 </p>
 
 - Voice and video calling
@@ -148,11 +151,11 @@ I enjoy taking ideas from concept to implementation, experimenting with technolo
 
 ### 🧰 Tools & Development Environment
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 </p>
 
-- Git & GitHub
+- Git and GitHub
 - Visual Studio Code
 - Android Studio
 - Postman
@@ -169,11 +172,11 @@ I enjoy taking ideas from concept to implementation, experimenting with technolo
 A platform designed to connect skilled workers and service providers with individuals and businesses, making it easier to discover services and manage work requests.
 
 **Technologies:**
-- Flutter & Dart
-- PHP / Laravel API
+- Flutter and Dart
+- Laravel API
 - MySQL
 - REST API Integration
-- Git & GitHub
+- Git and GitHub
 
 ### 02. Call & Video Application
 
@@ -182,12 +185,12 @@ A platform designed to connect skilled workers and service providers with indivi
 A mobile communication project focused on voice calls, video calls, and real-time messaging, including incoming call handling.
 
 **Technologies:**
-- Flutter & Dart
+- Flutter and Dart
 - WebRTC
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Cloud Messaging
-- STUN / TURN
+- STUN and TURN
 - ImageKit
 
 ### 03. Wardi
@@ -237,13 +240,13 @@ A project exploring digital assistance and access to university-related informat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanaldrb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrahmanaldrb&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=8B5CF6&amp;text_color=C9D1D9" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanaldrb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanaldrb&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=abdulrahmanaldrb&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakLabel=58A6FF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=abdulrahmanaldrb&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=8B5CF6&amp;currStreakLabel=58A6FF" />
 
 </div>
 
@@ -253,7 +256,7 @@ A project exploring digital assistance and access to university-related informat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanaldrb&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahmanaldrb&amp;bg_color=0D1117&amp;color=58A6FF&amp;line=8B5CF6&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" />
 
 </div>
 
@@ -276,15 +279,15 @@ A project exploring digital assistance and access to university-related informat
 <div align="center">
 
 <a href="https://github.com/abdulrahmanaldrb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
-<a href="mailto:abdulrhman.aldarb@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <br/><br/>
@@ -295,6 +298,6 @@ A project exploring digital assistance and access to university-related informat
 
 *"Building today. Innovating tomorrow."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:172554,100:080B16&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4F46E5,50:172554,100:080B16&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
